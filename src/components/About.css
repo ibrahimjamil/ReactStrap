@@ -1,0 +1,30 @@
+.portff{
+    color:white!important;
+    font-weight:bold !important;
+    font-size: 48px !important;
+    font-weight: 700 !important;
+    font-family: "Montserrat", "-apple-system, BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+.about_style{
+    background-color: #1abc9c !important;
+}
+.row_part{
+    margin-left: -24px !important;
+    margin-right: -24px !important;
+}
+.style{
+    color:white
+}
+.btn1{
+    padding:15px;
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.btn1:hover{
+    background: white;
+    color: black !important;
+}

@@ -1,0 +1,17 @@
+.jumb{
+    height: 100vh !important;
+    background-color: rgb(26, 188, 156) !important;
+}
+.tagsss{
+    font-family: "Montserrat", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:58px !important;
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+    font-weight: 700;
+    color: white;
+}
+.ggg{
+    font-size: 1.25rem;
+    color: white;
+    font-family: "Montserrat", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}

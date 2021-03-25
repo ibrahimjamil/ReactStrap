@@ -1,0 +1,21 @@
+.portf{
+    color:#2c3e50 !important;
+    font-weight:bold !important;
+    font-size: 48px !important;
+    font-weight: 700 !important;
+    font-family: "Montserrat", "-apple-system, BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+.contact_style{
+    margin-left:100px !important;
+    margin-right:100px !important;
+}
+.btn2{
+    color: white;
+    background-color: #1abc9c;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border:1px solid transparent;
+    border-radius: 10px;
+}
